@@ -1,4 +1,13 @@
 {
-  "orgName": "Dreamhouse8765",
-  "edition": "Developer"
+  "orgName": "Dreamhouse",
+  "edition": "Developer",
+  "features": ["Communities"],
+  "settings": {
+      "communitiesSettings": {
+          "enableNetworksEnabled": true
+      },
+      "experienceBundleSettings": {
+          "enableExperienceBundleMetadata": true
+      }
+  }
 }
