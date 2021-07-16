@@ -8,5 +8,13 @@
     <name>ApexClass</name>
     <members>ContactController</members>
   </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Property__c</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Property__c.Rating__c</members>
+  </types>
   <version>52.0</version>
 </Package>
